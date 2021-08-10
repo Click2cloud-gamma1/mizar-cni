@@ -1,4 +1,4 @@
-# mizar-cni
+# mizar-cni-health-criteria
 <div>
 To deploy mizar cni, run this commands
   </div>
